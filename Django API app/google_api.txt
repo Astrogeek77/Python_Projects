@@ -1,0 +1,7 @@
+rc_key = 6LfnhA4cAAAAANIFJfWJns4tazguzteTpS7465zj
+re_secret_key = 6LfnhA4cAAAAADytwKH5eKQ6kUAPUFaRcCargotD
+
+cloud_google = AIzaSyA8St_iU2A1LMf9OpGg520J3CY3BKZgBpE
+
+
+
